@@ -1,5 +1,5 @@
 # jeu_d'échecs
- Projet en premiere annee, a GE-IT
+ Projet en premiere annee, chez GE-IT
 
  > [!note] Les collaborateurs
 > ManantsoaRayan
